@@ -1,0 +1,22 @@
+{
+  "name": "speechapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "request": "^2.87.0"
+  },
+  "devDependencies": {
+    "@types/request": "^2.47.1",
+    "@types/node": "10.5.0",
+    "ts-node": "^7.0.0",
+    "typescript": "^2.9.2",
+    "tslint": "^5.10.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
