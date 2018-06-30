@@ -6,7 +6,7 @@ import * as queryString from "querystring"
 
 //textToSpeech("Your passion is for yours, your purpose is for others");
 //speechToText("amy.wav");
-translate("Your passion is for yours, your purpose is for others","en-US", "de");
+//translate("Your passion is for yours, your purpose is for others","en-US", "de");
 function textToSpeech(text: string) {
     const requestOptions: request.CoreOptions = {
         headers: {
